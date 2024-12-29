@@ -10,3 +10,17 @@ I have learned that the `#` are for headers and go up to 6, but a space must be 
 
 I have noted that '!' must begin before the alt text '[]'
 
+## Input block of code
+
+```  python
+myName = input("what is your name?")
+```
+
+The piece of code renders differently depending on the type of language 
+
+``` javascript
+let myName = "Chris"
+```
+
+Noted -- After the ``` add the name of language   e.g 
+<''' 'language'>
