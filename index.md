@@ -24,3 +24,11 @@ let myName = "Chris"
 
 Noted -- After the ``` add the name of language   e.g 
 <''' 'language'>
+
+## Making a List
+This is simply as the name dictates it's a list but more of a to-do list
+- [ ] Rember what i have learnt
+- [ ] Apply what i have learnt
+- [x] Keep up the spirit
+
+This works in a way that  - [ ] this implies a list and adding 'x' between it becames checked
